@@ -1,4 +1,4 @@
-#Time table
+# Time table
 Can fork and edit for your respective timetables.
 Below is the Google Sheets link for the time table.
 
